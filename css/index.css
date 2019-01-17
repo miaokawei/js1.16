@@ -1,0 +1,27 @@
+#login {
+    line-height:32px;
+    float:left;
+}
+#login a{
+    color: #999;
+    margin-left:20px;
+}
+#header a:hover {
+    color:red;
+}
+
+.menu{
+    margin-right:20px;
+    display:inline;
+}
+.menu a{
+    color:#999;
+}
+.menu .icon-1234{
+    color:red;
+    font-size:15px;
+}
+#head-menu {
+    float:right;
+    line-height:32px;
+}

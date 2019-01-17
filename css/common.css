@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+a{
+    text-decoration: none;
+}
+#header{
+    height: 32px;
+    font-size:12px;
+    font-weight:100;
+    background: #f2f2f2 ;
+    color:#999;
+}
+.wrapper {
+    margin: 0 auto;
+
+}
+
+
+
+
